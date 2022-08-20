@@ -6,3 +6,5 @@ Demas miembros del grupo por favor agregar sus commit apartir de aquí:
 
 
 Me llamo Juan Carlos Bolaños, soy el product owner, me encargare de levantar los requerimientos del cliente.
+
+Me llamo Raymond Moreno, soy el desarrollador, me encargo de progamar el aplicativo web.
